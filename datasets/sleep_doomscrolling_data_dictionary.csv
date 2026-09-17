@@ -1,0 +1,31 @@
+Column_Name,Data_Type,Description,Domain_Values_or_Range,Behavioral_Significance
+respondent_id,String,Unique identifier for survey participant,e.g. D30000 to D30999,Participant anonymization key
+age,Integer,Age of respondent in years,15 to 54 years,Lifespan behavioral tracking
+bedtime_screen_time_minutes,Float,Screen time spent specifically in bed before attempting sleep,0 to 180 minutes,Direct circadian phase delay trigger
+total_daily_screen_time_hours,Float,Overall daily screen time across all devices,1.0 to 16.0 hours,Cumulative technological immersion metric
+doomscroll_sessions_per_night,Integer,Number of distinct doomscrolling episodes per night,0 to 6 episodes,Habituation and obsessive checking metric
+avg_doomscroll_session_minutes,Float,Average duration of each doomscrolling session in minutes,0 to 60 minutes,Depth of cognitive absorption in negative content
+sleep_hours_per_night,Float,Average actual sleep duration per night in hours,3.0 to 10.0 hours,Objective restorative rest measure
+sleep_latency_minutes,Float,Time taken to fall asleep after turning off screen/lights,5 to 90 minutes,Clinical marker of sleep onset insomnia
+number_of_night_wakeups,Integer,Number of times waking up during the sleep period,0 to 6 times,Sleep fragmentation & maintenance index
+caffeine_intake_mg_per_day,Float,Total daily caffeine consumption in milligrams,0 to 600 mg,Adenosine receptor blocker / sleep disturber
+anxiety_score,Integer,Validated anxiety scale rating,0 (None) to 10 (Severe),Psychological arousal metric
+stress_score,Integer,Validated stress scale rating,0 (None) to 10 (Severe),Systemic sympathetic nervous system arousal
+sleep_quality_score,Float,Composite sleep quality score,1.0 to 10.0,Subjective perception of sleep depth
+daytime_fatigue_score,Integer,Daytime exhaustion and cognitive sluggishness,0 (Alert) to 10 (Exhausted),Next-day functional impairment index
+number_of_news_apps_used,Integer,Count of distinct news/content applications installed/checked,0 to 8 apps,Information overload & notification exposure
+phone_checks_per_night,Integer,Frequency of checking phone during nocturnal awakenings,0 to 8 checks,Conditioned nocturnal alertness behavior
+exercise_minutes_per_day,Float,Daily physical activity duration,0 to 120 minutes,Counter-regulatory physiological protector
+days_since_last_digital_detox,Float,Days elapsed since participant took at least a 24h screen break,0 to 365 days,Technological recovery buffer metric
+weekly_sleep_debt_hours,Float,Accumulated sleep deficit relative to physiological need,0.0 to 30.0 hours,Chronic cumulative sleep deprivation indicator
+gender,String,Self-reported gender identity,Male / Female / Other,Demographic classification
+occupation_status,String,Employment and professional status,Student / Employed / Freelancer / Unemployed / Retired,Socioeconomic and daily schedule determinant
+country_region,String,Geographic region of residence,North America / Europe / Asia-Pacific / Latin America / MEA,Cultural and regional technology norms
+primary_device_used_at_night,String,Dominant electronic device used right before sleep,Smartphone / Tablet / E-reader / Laptop / TV,Blue-light intensity and proximity factor
+bedtime_routine_type,String,Dominant routine prior to attempting sleep,Screen-based / Reading / Meditation / Hygiene-only / None,Pre-sleep cognitive deceleration indicator
+uses_night_mode,String,Whether blue-light filter or night shift is enabled,Yes / No,Melatonin preservation proxy
+keeps_phone_in_bedroom,String,Whether device remains in arm reach during sleep,Yes / No,Physical availability and disruption risk
+consumes_negative_news_content,String,Tendency to consume threatening or crisis-oriented media,Yes / No,Affective trigger for bedtime hyperarousal
+uses_sleep_tracking_app,String,Whether wearables or mobile sleep trackers are used,Yes / No,Self-monitoring behavioral awareness metric
+doomscroller,String,Binary classification as an active doomscroller,Yes / No,Primary behavioral phenotype
+sleep_quality_category,String,Categorical classification of overall sleep health,Good / Fair / Poor,Primary clinical target outcome
