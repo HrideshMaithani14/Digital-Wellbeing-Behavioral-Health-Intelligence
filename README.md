@@ -2,7 +2,8 @@
 
 A comprehensive **Data Analytics & Machine Learning project** analyzing social media consumption, bedtime doomscrolling, sleep latency, sleep debt, and academic/lifestyle performance across 5,500 survey respondents.
 
-> **Data Analytics & Behavioral Intelligence Portfolio Project**  
+> **Author:** **Hridesh Maithani** — *Data Scientist*  
+> **Project:** Data Analytics & Behavioral Intelligence Portfolio Project  
 > *Modeled after enterprise data science standards with interactive Streamlit dashboard, modular codebase, and evidence-backed recommendations.*
 
 ---
@@ -150,8 +151,6 @@ Intenship project/
 ---
 
 ## 👤 Author & Acknowledgements
-- **Author:** Data Analytics & Behavioral Science Team
+- **Author:** **Hridesh Maithani** — *Data Scientist*
+- **Role:** Lead Data Analyst & Behavioral Intelligence Researcher
 - **Framework & Inspiration:** Inspired by modern data analytics portfolio frameworks ([Deepanshu07-eng/Airbnb-Market-Pricing-Intelligence](https://github.com/Deepanshu07-eng/Airbnb-Market-Pricing-Intelligence/tree/main)).
-#   D i g i t a l - W e l l b e i n g - B e h a v i o r a l - H e a l t h - I n t e l l i g e n c e  
- #   D i g i t a l - W e l l b e i n g - B e h a v i o r a l - H e a l t h - I n t e l l i g e n c e  
- 

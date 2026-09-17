@@ -133,6 +133,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("""
     **Project Info**  
+    *Author*: Hridesh Maithani (Data Scientist)  
     *Dataset Size*: 5,500 Total Records  
     *Architecture*: Streamlit + Plotly + Scikit-Learn  
     *Repository*: Executive Portfolio Standards  

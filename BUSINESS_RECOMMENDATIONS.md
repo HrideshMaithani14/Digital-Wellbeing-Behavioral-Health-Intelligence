@@ -1,6 +1,7 @@
 # Strategic Business & Policy Recommendations
 ## Digital Wellbeing, Nighttime Technology Habits, and Behavioral Health
 
+**Author:** **Hridesh Maithani** — *Data Scientist*  
 **Project Focus:** Empirical Data Analysis on Social Media Impact, Doomscrolling Behaviors, and Circadian Disruption  
 **Target Audiences:** Educational Institutions, Technology Platforms, Healthcare Practitioners, Corporate Leaders, and Individual End-Users.
 
