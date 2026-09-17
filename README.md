@@ -152,5 +152,5 @@ Intenship project/
 
 ## 👤 Author & Acknowledgements
 - **Author:** **Hridesh Maithani** — *Data Scientist*
-- **Role:** Lead Data Analyst & Behavioral Intelligence Researcher
+- **Role:** Lead Data Analyst,Data Scientist & Behavioral Intelligence Researcher
 #
