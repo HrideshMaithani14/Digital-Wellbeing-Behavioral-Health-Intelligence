@@ -152,10 +152,5 @@ Intenship project/
 
 ## 👤 Author & Acknowledgements
 - **Author:** **Hridesh Maithani** — *Data Scientist*
-- **Role:** Lead Data Analyst & Behavioral Intelligence Researcher
-- **Framework & Inspiration:** Inspired by modern data analytics portfolio frameworks ([Deepanshu07-eng/Airbnb-Market-Pricing-Intelligence](https://github.com/Deepanshu07-eng/Airbnb-Market-Pricing-Intelligence/tree/main)).
-#   D i g i t a l - W e l l b e i n g - B e h a v i o r a l - H e a l t h - I n t e l l i g e n c e 
- 
- #   D i g i t a l - W e l l b e i n g - B e h a v i o r a l - H e a l t h - I n t e l l i g e n c e 
- 
- 
+- **Role:** Lead Data Analyst,Data Scientist & Behavioral Intelligence Researcher
+#
